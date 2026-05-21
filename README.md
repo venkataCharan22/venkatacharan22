@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/-venkatacharanmurapala@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatacharanmurapala@gmail.com)
 [![GitHub](https://img.shields.io/badge/-venkataCharan22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkataCharan22)
 
-![Profile views](https://komarev.com/ghpvc/?username=venkataCharan22&style=flat-square&color=blueviolet)
+
 
 </div>
 
